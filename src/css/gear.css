@@ -1,0 +1,33 @@
+.gear-field {
+    border: solid white 0.25rem;
+    border-radius: 0.5rem;
+    background-color: #35353552;
+    width: 24rem;
+    height: 26rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+}
+
+.gear-legend {
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    margin-bottom: 0.5rem;
+}
+
+.gear-container {
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    padding: 1rem;
+    word-spacing: 0.25rem;
+}
+
+.go-back {
+    display: grid;
+    place-items: center;
+    height: 7.5vh;
+}

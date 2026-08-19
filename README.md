@@ -1,6 +1,6 @@
 # Kelpy-Site
 
-Making this personal spageite until finalized.
+Making this personal website until finalized.
 Kelpy
 
 ## TODO
